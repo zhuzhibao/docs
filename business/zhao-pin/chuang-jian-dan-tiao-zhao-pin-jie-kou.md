@@ -26,6 +26,9 @@
 | 参数名 | 是否必填 | 数据类型 | 字段说明 |
 | :---: | :---: | :---: | :---: |
 | talent\_category\_id | true | int | 分类ID |
+| province\_id | true | int | 省份ID |
+| city\_id | true | int | 城市ID |
+| country\_id | true | int | 街道ID |
 | street\_id | true | string | 街道ID |
 | user\_name | true | string | 用户名称 |
 | title | true | string | 招聘标题 |
