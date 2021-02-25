@@ -179,6 +179,7 @@
   * [公司角色](administrator/company/role/README.md)
     * [公司角色列表](administrator/company/role/gong-si-jiao-se-lie-biao.md)
     * [搜索公司角色](administrator/company/role/sou-suo-gong-si-jiao-se.md)
+    * [可选权限列表](administrator/company/role/ke-xuan-quan-xian-lie-biao.md)
     * [创建公司角色](administrator/company/role/chuang-jian-gong-si-jiao-se.md)
     * [公司角色详情](administrator/company/role/gong-si-jiao-se-xiang-qing.md)
     * [更新公司角色](administrator/company/role/geng-xin-gong-si-jiao-se.md)
